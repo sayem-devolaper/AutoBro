@@ -1,0 +1,18 @@
+[
+  {
+    "id": "p1",
+    "name": "Premium Cotton Panjabi",
+    "price": 1490,
+    "currency": "BDT",
+    "description": "Premium Egyptian cotton, black/white/blue, size M-XXL",
+    "stock": 50
+  },
+  {
+    "id": "p2",
+    "name": "Ladies Georgette Hijab",
+    "price": 350,
+    "currency": "BDT",
+    "description": "Soft georgette, 12 colors available",
+    "stock": 200
+  }
+]
